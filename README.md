@@ -6,7 +6,7 @@ It helps you to search photos and images in unsplash database.
 
 ## Lessons learnt
 
-I learnt how to use API in Axios , passing these api returns from children components to parent component.
+I learnt how to use API in Axios and passing these api returns from children components to parent component.
 
 
   
